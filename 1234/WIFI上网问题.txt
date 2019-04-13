@@ -1,0 +1,199 @@
+[77086.650000] #20190218###icmp6_send: no reply to icmp error
+[77086.660000] #20190218###icmp6_send: no reply to icmp error
+[77086.670000] #20190218###icmp6_send: no reply to icmp error
+[77086.680000] #20190218###icmp6_send: no reply to icmp error
+[77086.690000] #20190218###icmp6_send: no reply to icmp error
+[77086.700000] #20190218###icmp6_send: no reply to icmp error
+[77086.710000] #20190218###icmp6_send: no reply to icmp error
+[77086.720000] #20190218###icmp6_send: no reply to icmp error
+[77089.730000] #20190218###icmp6_send: no reply to icmp error
+[77089.740000] #20190218###icmp6_send: no reply to icmp error
+[77092.750000] net_ratelimit: 1 callbacks suppressed
+[77092.750000] #20190218###icmp6_send: no reply to icmp error
+[77092.770000] #20190218###icmp6_send: no reply to icmp error
+[77092.780000] #20190218###icmp6_send: no reply to icmp error
+[77101.760000] #20190218###icmp6_send: no reply to icmp error
+[77101.770000] #20190218###icmp6_send: no reply to icmp error
+[77101.780000] #20190218###icmp6_send: no reply to icmp error
+[77105.810000] #20190218###icmp6_send: no reply to icmp error
+[77105.820000] #20190218###icmp6_send: no reply to icmp error
+[77105.830000] #20190218###icmp6_send: no reply to icmp error
+[78319.670000] #20190218###icmp6_send: no reply to icmp error
+[78319.680000] #20190218###icmp6_send: no reply to icmp error
+[78319.690000] #20190218###icmp6_send: no reply to icmp error
+[78322.850000] #20190218###icmp6_send: no reply to icmp error
+[78322.860000] #20190218###icmp6_send: no reply to icmp error
+[78322.870000] #20190218###icmp6_send: no reply to icmp error
+[78322.880000] #20190218###icmp6_send: no reply to icmp error
+[78409.110000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78409.130000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78409.140000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78409.160000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78409.180000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78409.200000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78409.220000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.230000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.250000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.270000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.280000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.300000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.320000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.340000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.360000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.380000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.390000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.410000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.430000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.450000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.470000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[78449.490000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+root@YET:~# 
+
+
+[79039.960000] device wlan0 left promiscuous mode
+[79039.970000] br-lan: port 2(wlan0) entered disabled state
+[79040.220000] ieee80211 phy0: rt2x00queue_flush_queue: Warning - Queue 2 failed to flush
+[79040.460000] ieee80211 phy0: rt2x00queue_flush_queue: Warning - Queue 2 failed to flush
+[79042.850000] IPv6: ADDRCONF(NETDEV_UP): wlan0: link is not ready
+[79042.870000] device wlan0 entered promiscuous mode
+[79043.580000] br-lan: port 2(wlan0) entered forwarding state
+[79043.590000] br-lan: port 2(wlan0) entered forwarding state
+[79043.600000] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+[79044.910000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Arrived at non-free entry in the non-full queue 2
+[79044.910000] Please file bug report to http://rt2x00.serialmonkey.com
+[79045.590000] br-lan: port 2(wlan0) entered forwarding state
+
+
+===============================================
+
+[  364.130000] icmp6_send: no reply to icmp error
+[  364.130000] icmp6_send: no reply to icmp error
+[  364.130000] icmp6_send: no reply to icmp error
+[  367.180000] icmp6_send: no reply to icmp error
+[  367.180000] icmp6_send: no reply to icmp error
+[  367.180000] icmp6_send: no reply to icmp error
+[  375.320000] icmp6_send: no reply to icmp error
+[  383.820000] icmp6_send: no reply to icmp error
+[  401.300000] icmp6_send: no reply to icmp error
+[  407.980000] icmp6_send: no reply to icmp error
+[  434.940000] icmp6_send: no reply to icmp error
+[  625.750000] icmp6_send: no reply to icmp error
+[  625.750000] icmp6_send: no reply to icmp error
+[  625.750000] icmp6_send: no reply to icmp error
+[  629.220000] icmp6_send: no reply to icmp error
+[  629.220000] icmp6_send: no reply to icmp error
+[  634.940000] icmp6_send: no reply to icmp error
+[  643.290000] icmp6_send: no reply to icmp error
+[  660.440000] icmp6_send: no reply to icmp error
+[  693.120000] icmp6_send: no reply to icmp error
+[ 1086.740000] icmp6_send: no reply to icmp error
+[ 1137.180000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.200000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.220000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.240000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.250000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.270000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.290000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.310000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.330000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.350000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.370000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.380000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.400000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.420000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.440000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.460000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.480000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[ 1137.490000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+
+========================================
+
+Binary file root-ramips/lib/modules/3.18.84/rt2x00lib.ko matches
+linux-ramips_mt7620/linux-3.18.84/drivers/net/wireless/rt2x00/rt2x00queue.c:674:		rt2x00_err(queue->rt2x00dev, "Dropping frame due to full tx queue %d\n",
+linux-ramips_mt7620/linux-3.18.84/.pc/platform/999-kernel-rt2x00-queue-update.patch/drivers/net/wireless/rt2x00/rt2x00queue.c:674:		rt2x00_err(queue->rt2x00dev, "Dropping frame due to full tx queue %d\n",
+Binary file linux-ramips_mt7620/compat-wireless-2016-01-10/ipkg-ramips_24kec/kmod-rt2x00-lib/lib/modules/3.18.84/rt2x00lib.ko matches
+Binary file linux-ramips_mt7620/compat-wireless-2016-01-10/drivers/net/wireless/ralink/rt2x00/rt2x00lib.o matches
+linux-ramips_mt7620/compat-wireless-2016-01-10/drivers/net/wireless/ralink/rt2x00/rt2x00queue.c:674:		rt2x00_err(queue->rt2x00dev, "Dropping frame due to full tx queue %d\n",
+Binary file linux-ramips_mt7620/compat-wireless-2016-01-10/drivers/net/wireless/ralink/rt2x00/rt2x00lib.ko matches
+Binary file linux-ramips_mt7620/compat-wireless-2016-01-10/drivers/net/wireless/ralink/rt2x00/rt2x00queue.o matches
+youshaohui@yet-Vostro-3667:~/test/build-smart-gateway/openwrt/build_dir/target-mipsel_24kec+dsp_uClibc-0.9.33.2$
+
+
+==========================================
+
+[10906.260000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - ##20190219##Dropping frame due to full tx queue 2
+[10906.280000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - ##20190219##Arrived at non-free entry in the non-full queue 2
+[10906.280000] Please file bug report to http://rt2x00.serialmonkey.com
+[10906.310000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - ##20190219##Arrived at non-free entry in the non-full queue 2
+[10906.310000] Please file bug report to http://rt2x00.serialmonkey.com
+[10906.350000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - ##20190219##Arrived at non-free entry in the non-full queue 2
+[10906.350000] Please file bug report to http://rt2x00.serialmonkey.com
+[10906.380000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - ##20190219##Arrived at non-free entry in the non-full queue 2
+[10906.380000] Please file bug report to http://rt2x00.serialmonkey.com
+[10906.420000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - ##20190219##Arrived at non-free entry in the non-full queue 2
+[10906.420000] Please file bug report to http://rt2x00.serialmonkey.com
+[10906.450000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - ##20190219##Arrived at non-free entry in the non-full queue 2
+[10906.450000] Please file bug report to http://rt2x00.serialmonkey.com
+[10906.490000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - ##20190219##Arrived at non-free entry in the non-full queue 2
+[10906.490000] Please file bug report to http://rt2x00.serialmonkey.com
+[10906.520000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - ##20190219##Arrived at non-free entry in the non-full queue 2
+[10906.520000] Please file bug report to http://rt2x00.serialmonkey.com
+[10906.560000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - ##20190219##Arrived at non-free entry in the non-full queue 2
+[10906.560000] Please file bug report to http://rt2x00.serialmonkey.com
+[10906.590000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - ##20190219##Arrived at non-free entry in the non-full queue 2
+[10906.590000] Please file bug report to http://rt2x00.serialmonkey.com
+[10906.630000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - ##20190219##Arrived at non-free entry in the non-full queue 2
+[10906.630000] Please file bug report to http://rt2x00.serialmonkey.com
+[10906.660000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - ##20190219##Arrived at non-free entry in the non-full queue 2
+[10906.660000] Please file bug report to http://rt2x00.serialmonkey.com
+[10936.630000] icmp6_send: no reply to icmp error
+[10936.630000] icmp6_send: no reply to icmp error
+[10936.630000] icmp6_send: no reply to icmp error
+[10936.630000] icmp6_send: no reply to icmp error
+[10936.630000] icmp6_send: no reply to icmp error
+[10936.630000] icmp6_send: no reply to icmp error
+[10936.630000] icmp6_send: no reply to icmp error
+[10936.630000] icmp6_send: no reply to icmp error
+[10939.700000] icmp6_send: no reply to icmp error
+[10939.700000] icmp6_send: no reply to icmp error
+[10942.710000] net_ratelimit: 1 callbacks suppressed
+[10942.710000] icmp6_send: no reply to icmp error
+
+================
+
+
+=========
+WIFI上不了网，提示新的错误信息
+[148990.600000] icmp6_send: no reply to icmp error
+[148990.600000] icmp6_send: no reply to icmp error
+[148990.610000] icmp6_send: no reply to icmp error
+[148990.620000] icmp6_send: no reply to icmp error
+[148990.630000] icmp6_send: no reply to icmp error
+[148990.640000] icmp6_send: no reply to icmp error
+[148990.650000] icmp6_send: no reply to icmp error
+[148990.660000] icmp6_send: no reply to icmp error
+[148993.690000] icmp6_send: no reply to icmp error
+[148993.690000] icmp6_send: no reply to icmp error
+[148997.350000] icmp6_send: no reply to icmp error
+[148997.350000] icmp6_send: no reply to icmp error
+[148997.360000] icmp6_send: no reply to icmp error
+[149001.410000] icmp6_send: no reply to icmp error
+[149005.420000] icmp6_send: no reply to icmp error
+[149013.430000] icmp6_send: no reply to icmp error
+[149029.460000] icmp6_send: no reply to icmp error
+root@YET:~# 
+
+youshaohui@yet-Vostro-3667:~/test/build-smart-gateway/openwrt/build_dir/target-mipsel_24kec+dsp_uClibc-0.9.33.2/linux-ramips_mt7620$ grep -rn "no reply to icmp error"
+Binary file linux-3.18.84/net/ipv6/ipv6.ko matches
+linux-3.18.84/net/ipv6/icmp.c:463:		LIMIT_NETDEBUG(KERN_DEBUG "icmp6_send: no reply to icmp error\n");
+
+
+
+====================
+问题描述：有时候板子挂一段时间后，WIFI会上不了网，特别是WIFI连接的设备较多时更容易出现,此时WAN和LAN的网络是可以正常使用的，执行/etc/init.d/dnsmasq restart和wifi down/on都是没有效果的，必须重启才行。
+查看内核报错信息：
+dmesg内核报错：
+[161254.510000] icmp6_send: no reply to icmp error
+[163641.170000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[163641.190000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
+[163641.200000] ieee80211 phy0: rt2x00queue_write_tx_frame: Error - Dropping frame due to full tx queue 2
